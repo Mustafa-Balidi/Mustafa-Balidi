@@ -20,7 +20,6 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  
   <!-- Frontend Core -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -56,7 +55,6 @@
   <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JavaFX" width="50" height="50" style="filter: brightness(1.1) contrast(1.1);"/>
   </a>
-  
 </p>
 
 <p align="center">
@@ -112,37 +110,127 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mustafa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabalidi&theme=tokyonight&hide_border=true&background=0D1117" alt="Mustafa's GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mustafabalidi&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="90%" alt="trophy graph" />
+</div>
 
-<br>
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabalidi&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabalidi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2D9CDB&fire=2D9CDB&currStreakLabel=2D9CDB" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=mustafabalidi&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+</div>
+
+<br/>
+
+<details>
+  <summary><b>📁 Detailed Metrics</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabalidi&theme=github_dark" width="90%" />
+    <br/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafabalidi&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustafabalidi&theme=github_dark" />
+    <br/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafabalidi&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafabalidi&theme=github_dark&utcOffset=8" />
+  </div>
+</details>
+
+<br/>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Professional Network
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/mustafabalidi">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0055A4" />
+        </a>
+      </td>
+      <td>
+        <i>Let's connect professionally • Open to opportunities & collaborations</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://twitter.com/mustafabalidi">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D8BD9" />
+        </a>
+      </td>
+      <td>
+        <i>Follow for tech insights and industry updates</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="mailto:mustafa.balidi@example.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BA2B2B" />
+        </a>
+      </td>
+      <td>
+        <i>Reach me directly • Response within 24-48 hours</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://mustafabalidi.dev">
+          <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6D28D9" />
+        </a>
+      </td>
+      <td>
+        <i>Explore my work • Projects & case studies</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://medium.com/@mustafabalidi">
+          <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <i>Read my articles • UI/UX & frontend insights</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafabalidi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafabalidi&label=Profile%20Views&color=2D9CDB&style=flat-square" alt="Profile Views" width="200"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>💼 Available for freelance opportunities and full-time positions</i>
+  <br/>
+  <i>📧 Preferred contact: <a href="mailto:mustafa.balidi@example.com">mustafa.balidi@example.com</a></i>
+</div>
+
+<br/>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mustafabalidi/mustafabalidi/output/snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <i>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</i>
