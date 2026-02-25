@@ -210,7 +210,6 @@
   </table>
 </div>
 <br/>
-
 <div align="center">
   <i>💼 Available for freelance opportunities and full-time positions</i>
   <br/>
