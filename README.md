@@ -109,54 +109,15 @@
 <br>
 
 ---
-<h2 align="center">📊 GitHub Analytics</h2>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/mustafabalidi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mustafabalidi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="Mustafa's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mustafabalidi&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Mustafa's Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mustafa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabalidi&theme=tokyonight&hide_border=true&background=0D1117" alt="Mustafa's GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mustafabalidi">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabalidi&theme=algolia&hide_border=true" alt="Mustafa's GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafabalidi&theme=algolia&no-frame=true&row=2&column=4" alt="Mustafa's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafabalidi&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="95%" alt="Mustafa's GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mustafabalidi/mustafabalidi/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<details>
-  <summary><b>📈 Detailed Statistics</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabalidi&theme=algolia" alt="Profile Summary" width="90%"/>
-  </p>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafabalidi&theme=algolia" alt="Repos per Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustafabalidi&theme=algolia" alt="Most Commit Language"/>
-  </p>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafabalidi&theme=algolia" alt="Statistics"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafabalidi&theme=algolia&utcOffset=8" alt="Productive Time"/>
-  </p>
-</details>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafabalidi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<br>
 
 ---
 
