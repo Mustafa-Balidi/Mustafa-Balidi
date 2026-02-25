@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <i>"Passionate about the intersection of elegant design and robust code."</i>
+  <i>"Always expanding my toolkit with modern technologies."</i>
 </p>
 
 ---
@@ -56,19 +56,19 @@
   <table style="border-collapse: collapse; width: 85%; background: transparent;">
     <tr>
       <td align="left" style="border: none; padding: 10px;"><b>💻 Current Focus</b></td>
-      <td align="left" style="border: none; padding: 10px;">Frontend Dev & UI/UX, exploring AI-driven interfaces</td>
+      <td align="left" style="border: none; padding: 10px;">Frontend Development & UI/UX Design, exploring AI integration</td>
     </tr>
     <tr>
       <td align="left" style="border: none; padding: 10px;"><b>🤝 Collaboration</b></td>
-      <td align="left" style="border: none; padding: 10px;">Open to UI/UX audits and React-based projects</td>
+      <td align="left" style="border: none; padding: 10px;">Always ready to collaborate on Dev Experiments</td>
     </tr>
     <tr>
       <td align="left" style="border: none; padding: 10px;"><b>👨‍💼 Experience</b></td>
       <td align="left" style="border: none; padding: 10px;">Former Project Lead Intern at GirlScript Foundation</td>
     </tr>
     <tr>
-      <td align="left" style="border: none; padding: 10px;"><b>⚡ Fun Fact</b></td>
-      <td align="left" style="border: none; padding: 10px;">I never miss a tech conference or a good networking meetup</td>
+      <td align="left" style="border: none; padding: 10px;"><b>⚡ Beyond Code</b></td>
+      <td align="left" style="border: none; padding: 10px;">Love attending Meetups for learning & Conferences for Networking</td>
     </tr>
   </table>
 </div>
@@ -78,35 +78,30 @@
 ## 📈 Performance & Insights
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Developer-4ec14e?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Design-System_Focused-7aa2f7?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/Code-Clean_&_Modular-f7768e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-4ec14e?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-Design_System-7aa2f7?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </div>
 
 <br/>
 
 <div align="center">
-  <table width="95%">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <h4 align="center">🚀 Engineering Philosophy</h4>
-        <ul align="left">
-          <li><b>User-Centric:</b> Interfaces built with accessibility first.</li>
-          <li><b>Scalability:</b> Modular CSS and reusable React components.</li>
-          <li><b>Precision:</b> Translating high-fidelity designs into pixel-perfect code.</li>
-        </ul>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mustafa's Stats" />
       </td>
-      <td width="50%" valign="top">
-        <h4 align="center">📊 GitHub Stats</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&theme=transparent&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7" width="100%" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabalidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <h4 align="center">🛠️ Language Distribution</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabalidi&layout=compact&theme=transparent&hide_border=true&title_color=7aa2f7&text_color=9ece6a" width="75%" />
+  <br/>
+  <p><b>Core Commitments</b></p>
+  <code>Accessibility</code> • <code>Responsive Design</code> • <code>Clean Code</code> • <code>User Research</code>
 </div>
 
 ---
@@ -132,6 +127,27 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://twitter.com/mustafabalidi">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://medium.com/@mustafabalidi">
+          <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+         </td>
+    </tr>
   </table>
-  <p><i>💼 Available for freelance opportunities and full-time positions.</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>💼 Available for freelance opportunities and full-time positions</i>
+  <br/>
+  <i>📧 Preferred contact: <a href="mailto:mustafa.balidi@example.com">mustafa.balidi@example.com</a></i>
 </div>
