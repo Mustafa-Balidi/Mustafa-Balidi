@@ -52,11 +52,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
-  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JavaFX" width="50" height="50" style="filter: brightness(1.1) contrast(1.1);"/>
-  </a>
 </p>
-
 <p align="center">
   <i>Always expanding my toolkit with modern technologies.</i>
 </p>
