@@ -223,15 +223,3 @@
   <br/>
   <i>📧 Preferred contact: <a href="mailto:mustafa.balidi@example.com">mustafa.balidi@example.com</a></i>
 </div>
-
-<br/>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mustafabalidi/mustafabalidi/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</i>
-</p>
