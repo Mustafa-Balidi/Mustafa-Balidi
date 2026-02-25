@@ -209,13 +209,6 @@
     </tr>
   </table>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafabalidi&label=Profile%20Views&color=2D9CDB&style=flat-square" alt="Profile Views" width="200"/>
-</div>
-
 <br/>
 
 <div align="center">
