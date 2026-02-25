@@ -26,7 +26,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Frontend And UI/UX Designer , currently exploring Web3 Space
+- :computer: I'm a Frontend And UI/UX Designer , currently exploring AI
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
