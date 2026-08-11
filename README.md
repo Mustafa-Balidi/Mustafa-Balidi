@@ -74,7 +74,7 @@ I'm a frontend developer and UI/UX designer with a growing focus on applied mach
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=7aa2f7&text_color=e5e7eb" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabalidi&hide_border=true&background=00000000&ring=8B5CF6&fire=7aa2f7&currStreakLabel=8B5CF6&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9CA3AF" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=mustafabalidi&hide_border=true&background=00000000&ring=8B5CF6&fire=7aa2f7&currStreakLabel=8B5CF6&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9CA3AF" alt="GitHub Streak" height="165"/>
 
 <br/>
 
