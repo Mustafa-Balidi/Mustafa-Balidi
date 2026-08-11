@@ -69,20 +69,44 @@ I'm a frontend developer and UI/UX designer with a growing focus on applied mach
 
 <br/>
 
-## GitHub Stats & Activity
+## Featured Projects
 
-<div align="center">
+<table align="center" width="95%">
+<tr>
+<td width="33%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=7aa2f7&text_color=e5e7eb" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=mustafabalidi&hide_border=true&background=00000000&ring=8B5CF6&fire=7aa2f7&currStreakLabel=8B5CF6&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9CA3AF" alt="GitHub Streak" height="165"/>
+### 🎨 Project One
+Short description of what it does and the problem it solves in one or two lines.
 
-<br/>
+`React` `Figma` `Sass`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafabalidi&theme=react-dark&hide_border=true&bg_color=00000000&color=8B5CF6&line=7aa2f7&point=e5e7eb&area=true" alt="Contribution Activity Graph" width="97%"/>
+[View Repo →](https://github.com/mustafabalidi)
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-<sub>📈 Stats update automatically and reflect ongoing contribution activity — replace <code>mustafabalidi</code> in the URLs above with your exact GitHub username if it differs.</sub>
+### 🤖 Project Two
+Short description highlighting the ML/LLM component — e.g. a RAG-powered search or chatbot.
+
+`Python` `PyTorch` `FastAPI`
+
+[View Repo →](https://github.com/mustafabalidi)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Project Three
+Short description of a full-stack or deployment-focused build.
+
+`Flask` `Docker` `Ubuntu`
+
+[View Repo →](https://github.com/mustafabalidi)
+
+</td>
+</tr>
+</table>
+
+<sub>🔧 Placeholder titles, descriptions, tags, and links above — swap these for your real repos.</sub>
 
 <br/>
 
