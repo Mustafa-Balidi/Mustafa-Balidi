@@ -8,6 +8,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,figma,git,py,docker,pytorch,fastapi,flask,linux" />
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" style="border-radius: 12px;">
+
 </div>
 
 <br/>
@@ -62,6 +66,23 @@ I'm a frontend developer and UI/UX designer with a growing focus on applied mach
 </td>
 </tr>
 </table>
+
+<br/>
+
+## GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mustafabalidi&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=7aa2f7&text_color=e5e7eb" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabalidi&hide_border=true&background=00000000&ring=8B5CF6&fire=7aa2f7&currStreakLabel=8B5CF6&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9CA3AF" alt="GitHub Streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafabalidi&theme=react-dark&hide_border=true&bg_color=00000000&color=8B5CF6&line=7aa2f7&point=e5e7eb&area=true" alt="Contribution Activity Graph" width="97%"/>
+
+</div>
+
+<sub>📈 Stats update automatically and reflect ongoing contribution activity — replace <code>mustafabalidi</code> in the URLs above with your exact GitHub username if it differs.</sub>
 
 <br/>
 
