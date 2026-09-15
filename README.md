@@ -85,7 +85,7 @@ UI/UX audits, open-source contributions, and applied ML / RAG collaborations
 
 <div align="center">
 
-<img src="./profile/top-languages.svg" alt="Mustafa's Top Languages" width="420" />
+<img src="./profile/top-languages.svg?cb=1789470464" alt="Mustafa's Top Languages" width="420" />
 
 </div>
 
@@ -178,5 +178,5 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 ## Activity Overview
 
 <div align="center">
-<img src="./profile/activity-overview.svg" alt="Mustafa's Activity overview" width="780" />
+<img src="./profile/activity-overview.svg?cb=1789470464" alt="Mustafa's Activity overview" width="780" />
 </div>
