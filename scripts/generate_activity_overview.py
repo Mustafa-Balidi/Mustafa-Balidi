@@ -29,7 +29,6 @@ query($login: String!) {
 }
 """
 
-
 def fetch(login: str, token: str) -> dict:
     body = json.dumps({"query": QUERY, "variables": {"login": login}}).encode("utf-8")
     req = urllib.request.Request(
@@ -44,7 +43,6 @@ def fetch(login: str, token: str) -> dict:
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.load(resp)
 
-
 def esc(s: str) -> str:
     return (
         s.replace("&", "&amp;")
@@ -52,7 +50,6 @@ def esc(s: str) -> str:
         .replace(">", "&gt;")
         .replace('"', "&quot;")
     )
-
 
 def build_svg(login: str, data: dict) -> str:
     user = data["data"]["user"]
@@ -74,7 +71,7 @@ def build_svg(login: str, data: dict) -> str:
     shown = names[:3]
     extra = total_repos - len(shown)
 
-    W, H = 760, 280
+    W, H = 780, 330
     bg = "#0d1117"
     border = "#30363d"
     text_muted = "#8b949e"
@@ -83,7 +80,7 @@ def build_svg(login: str, data: dict) -> str:
     green = "#3fb950"
     axis_color = "#30363d"
 
-    cx, cy, R = 555, 150, 88
+    cx, cy, R = 580, 185, 86
 
     def pt(angle_deg: float, value_pct: float):
         a = math.radians(angle_deg)
@@ -103,7 +100,7 @@ def build_svg(login: str, data: dict) -> str:
     polygon_pts = f"{top[0]:.1f},{top[1]:.1f} {right[0]:.1f},{right[1]:.1f} {bottom[0]:.1f},{bottom[1]:.1f} {left[0]:.1f},{left[1]:.1f}"
 
     dots = "".join(
-        f'<circle cx="{p[0]:.1f}" cy="{p[1]:.1f}" r="3.5" fill="{green}" />'
+        f'<circle cx="{p[0]:.1f}" cy="{p[1]:.1f}" r="4" fill="{green}" />'
         for p in (top, right, bottom, left)
     )
 
@@ -125,15 +122,15 @@ def build_svg(login: str, data: dict) -> str:
     left_lines = [f"{p_commits}%", "Commits"]
 
     labels = (
-        f'<g fill="{link_color}">{axis_label(axis_top_end[0], axis_top_end[1] - 28, top_lines)}</g>'
+        f'<g fill="{link_color}">{axis_label(axis_top_end[0], axis_top_end[1] - 26, top_lines)}</g>'
         f'<g fill="{text_main}">{axis_label(axis_right_end[0] + 34, axis_right_end[1] - 4, right_lines, "start")}</g>'
-        f'<g fill="{text_main}">{axis_label(axis_bottom_end[0], axis_bottom_end[1] + 26, bottom_lines)}</g>'
+        f'<g fill="{text_main}">{axis_label(axis_bottom_end[0], axis_bottom_end[1] + 24, bottom_lines)}</g>'
         f'<g fill="{link_color}">{axis_label(axis_left_end[0] - 34, axis_left_end[1] - 4, left_lines, "end")}</g>'
     )
     if not p_review:
-        labels = labels.replace(f'fill="{link_color}">{axis_label(axis_top_end[0], axis_top_end[1] - 28, top_lines)}', f'fill="{text_main}">{axis_label(axis_top_end[0], axis_top_end[1] - 28, top_lines)}')
+        labels = labels.replace(f'fill="{link_color}">{axis_label(axis_top_end[0], axis_top_end[1] - 26, top_lines)}', f'fill="{text_main}">{axis_label(axis_top_end[0], axis_top_end[1] - 26, top_lines)}')
 
-    repo_link_y = 76
+    repo_link_y = 84
     rows = []
     rows.append(f'<tspan x="46" dy="0" fill="{text_main}">Contributed to</tspan>')
     for i, name in enumerate(shown):
@@ -146,7 +143,7 @@ def build_svg(login: str, data: dict) -> str:
     repo_text = f'<text y="{repo_link_y}" font-size="14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">{"".join(rows)}</text>'
 
     repo_icon = (
-        '<path transform="translate(18,64) scale(0.9)" fill="'
+        '<path transform="translate(18,72) scale(0.9)" fill="'
         + text_muted
         + '" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2H4.5a1 1 0 0 0-.968 1.246.75.75 0 1 1-1.453.375A2.5 2.5 0 0 1 2 11.5Zm10.5-1H4.5a1 1 0 0 0-1 1v6.708A2.5 2.5 0 0 1 4.5 9h8Z" />'
     )
@@ -157,14 +154,13 @@ def build_svg(login: str, data: dict) -> str:
 <line x1="20" y1="50" x2="{W - 20}" y2="50" stroke="{border}" />
 {repo_icon}
 {repo_text}
-<line x1="380" y1="20" x2="380" y2="{H - 20}" stroke="{border}" />
+<line x1="400" y1="24" x2="400" y2="{H - 24}" stroke="{border}" />
 {axis_lines}
 <polygon points="{polygon_pts}" fill="{green}" fill-opacity="0.18" stroke="{green}" stroke-width="2" />
 {dots}
 {labels}
 </svg>'''
     return svg
-
 
 def main():
     login = os.environ.get("LOGIN") or (sys.argv[1] if len(sys.argv) > 1 else None)
@@ -184,7 +180,6 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"wrote {out_path} ({len(svg)} bytes)")
-
 
 if __name__ == "__main__":
     main()
