@@ -1,10 +1,10 @@
 <div align="center">
 
-# Mustafa Balidi
+# Mustafa Bleidi
 
-### Frontend Developer & UI/UX Designer
+### AI & Machine Learning Engineer
 
-*Crafting intuitive digital experiences at the intersection of design and engineering*
+*Applied machine learning and information retrieval, with a React frontend and UI/UX design background.*
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,figma,git,py,docker,pytorch,fastapi,flask,linux" />
 
@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a frontend developer and UI/UX designer with a growing focus on applied machine learning — building interfaces that are both visually refined and technically sound, while exploring how ML and LLM-powered systems can be integrated into real products.
+I build retrieval and deep learning systems — text pipelines, ranking models, semantic embeddings, and the evaluation that proves they work — then build the React interfaces that sit on top of them, with a designer's eye.
 
 | | |
 |---|---|
