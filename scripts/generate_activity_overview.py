@@ -21,7 +21,7 @@ query($login: String!) {
       totalPullRequestContributions
       totalPullRequestReviewContributions
     }
-    repositoriesContributedTo(first: 20, includeUserRepositories: true, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
+    repositoriesContributedTo(first: 20, includeUserRepositories: true, orderBy: {field: PUSHED_AT, direction: DESC}, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
       totalCount
       nodes { nameWithOwner }
     }
