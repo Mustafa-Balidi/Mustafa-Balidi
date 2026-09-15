@@ -157,6 +157,21 @@ Short description of a full-stack or deployment-focused build.
 
 <br/>
 
+## Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafa-balidi.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.balidie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-balidi-80a69b383)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustafa-Balidi)
+
+</div>
+
+<br/>
+
+<br/>
+
 <div align="center">
 <sub>💼 Available for freelance opportunities and full-time positions.</sub>
 </div>
