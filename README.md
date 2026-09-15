@@ -85,13 +85,7 @@ UI/UX audits, open-source contributions, and applied ML / RAG collaborations
 
 <div align="center">
 
-<a href="https://github.com/Mustafa-Bleidi">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Bleidi&layout=donut&langs_count=6&hide_border=true"
-    alt="Mustafa's Top Languages"
-    width="360"
-  />
-</a>
+<img src="./profile/top-languages.svg" alt="Mustafa's Top Languages" width="460" />
 
 </div>
 
