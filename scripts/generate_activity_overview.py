@@ -23,7 +23,7 @@ query($login: String!) {
     }
     repositoriesContributedTo(first: 20, includeUserRepositories: true, orderBy: {field: PUSHED_AT, direction: DESC}, contributionTypes: [COMMIT, ISSUE, PULL_REQUEST, REPOSITORY]) {
       totalCount
-      nodes { nameWithOwner }
+      nodes { nameWithOwner pushedAt }
     }
   }
 }
@@ -66,8 +66,33 @@ def build_svg(login: str, data: dict) -> str:
     p_commits, p_issues, p_prs, p_review = pct(commits), pct(issues), pct(prs), pct(reviews)
 
     contributed = user["repositoriesContributedTo"]
-    names = [n["nameWithOwner"] for n in contributed["nodes"]]
-    total_repos = contributed["totalCount"]
+    nodes = contributed["nodes"]
+
+    # GitHub's API does not reliably honor orderBy on this field, so sort by
+    # pushedAt ourselves to actually surface the most recently active projects.
+    nodes = sorted(nodes, key=lambda n: n.get("pushedAt") or "", reverse=True)
+
+    # Multiple accounts (own fork + upstream + teammates' forks) of the same
+    # project otherwise show up as separate "different" repos and crowd out
+    # genuinely different projects. Keep one entry per project name, preferring
+    # the user's own copy when there's a choice.
+    self_repo = f"{login}/{login}".lower()
+    seen = {}
+    ordered_keys = []
+    for n in nodes:
+        full_name = n["nameWithOwner"]
+        if full_name.lower() == self_repo:
+            continue  # skip the profile repo itself (self-referential, not a project)
+        key = full_name.split("/")[-1].lower()
+        owner = full_name.split("/")[0].lower()
+        if key not in seen:
+            seen[key] = full_name
+            ordered_keys.append(key)
+        elif owner == login.lower():
+            seen[key] = full_name  # prefer the user's own copy of a duplicated project
+
+    names = [seen[k] for k in ordered_keys]
+    total_repos = len(names)
     shown = names[:3]
     extra = total_repos - len(shown)
 
