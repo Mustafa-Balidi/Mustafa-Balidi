@@ -171,7 +171,7 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustafa-Bleidi&theme=github_dark" alt="GitHub Activity Breakdown" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Bleidi&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=02569B&text_color=777" alt="Mustafa's GitHub Stats" />
 
 </div>
 
