@@ -167,18 +167,6 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 
 <br/>
 
-### 📈 GitHub Snapshot
-
-<p align="left">
-<img src="./profile/stats.svg" alt="Mustafa's GitHub Stats" />
-</p>
-
-<p align="left">
-<img src="./profile/activity-overview.svg" alt="Mustafa's Activity overview" width="760" />
-</p>
-
-<br/>
-
 ## Contact
 
 <div align="center">
@@ -197,4 +185,12 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 
 <div align="center">
 <sub>💼 Available for freelance opportunities and full-time positions.</sub>
+</div>
+
+<br/>
+
+## Activity Overview
+
+<div align="center">
+<img src="./profile/activity-overview.svg" alt="Mustafa's Activity overview" width="760" />
 </div>
