@@ -73,40 +73,50 @@ I build retrieval and deep learning systems — text pipelines, ranking models, 
 
 <table align="center" width="95%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🎨 Project One
-Short description of what it does and the problem it solves in one or two lines.
+### 🔬 Biomedical IR System
+End-to-end retrieval system over a biomedical corpus — NLTK preprocessing, TF-IDF/BM25 baselines, then semantic retrieval with GloVe & BERT embeddings and RM3 query expansion.
 
-`React` `Figma` `Sass`
+`Python` `NLTK` `BM25` `BERT` `PyTorch`
 
-[View Repo →](https://github.com/mustafabalidi)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Project Two
-Short description highlighting the ML/LLM component — e.g. a RAG-powered search or chatbot.
-
-`Python` `PyTorch` `FastAPI`
-
-[View Repo →](https://github.com/mustafabalidi)
+[View Repo →](https://github.com/Mustafa-Balidi/CodeToText-IR-System)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ⚙️ Project Three
-Short description of a full-stack or deployment-focused build.
+### 🌱 AgriSphere
+An application for farmers that recommends planting windows and diagnoses plant diseases from photos of affected crops.
 
-`Flask` `Docker` `Ubuntu`
+`Python` `Computer Vision` `Laravel` `Flutter`
 
-[View Repo →](https://github.com/mustafabalidi)
+[View Repo →](https://github.com/Mustafa-Balidi/agri_sphere)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 PetHaven
+A pet adoption and care platform with a built-in assistant — React/Tailwind frontend over a .NET backend, with a Rasa conversational agent and Whisper speech transcription.
+
+`React` `.NET` `Rasa` `LangChain` `OpenAI`
+
+<sub>🔒 Private — commercial project</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 TradingAgents
+A multi-agent LLM framework for financial trading that I study and experiment with to understand agent roles, tool calls, and evaluation.
+
+`Python` `LLM Agents` `RAG`
+
+[View Repo →](https://github.com/Mustafa-Balidi/TradingAgents)
 
 </td>
 </tr>
 </table>
-
-<sub>🔧 Placeholder titles, descriptions, tags, and links above — swap these for your real repos.</sub>
 
 <br/>
 
