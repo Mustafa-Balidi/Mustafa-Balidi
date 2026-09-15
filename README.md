@@ -124,17 +124,17 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 
 <div align="center">
 
-**UI/UX Design**
-<img src="https://geps.dev/progress/95?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" alt="UI/UX Progress" />
+**Machine Learning & Deep Learning**
+<img src="https://geps.dev/progress/90?dangerColor=EE4C2C&warningColor=EE4C2C&successColor=EE4C2C" alt="ML Progress" />
+
+**NLP & Information Retrieval**
+<img src="https://geps.dev/progress/85?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED" alt="NLP/IR Progress" />
 
 **Frontend Development (React / JavaScript)**
-<img src="https://geps.dev/progress/85?dangerColor=7aa2f7&warningColor=7aa2f7&successColor=7aa2f7" alt="Frontend Progress" />
+<img src="https://geps.dev/progress/80?dangerColor=7aa2f7&warningColor=7aa2f7&successColor=7aa2f7" alt="Frontend Progress" />
 
-**Machine Learning & LLM Systems**
-<img src="https://geps.dev/progress/65?dangerColor=EE4C2C&warningColor=EE4C2C&successColor=EE4C2C" alt="ML Progress" />
-
-**System Architecture**
-<img src="https://geps.dev/progress/70?dangerColor=f7768e&warningColor=f7768e&successColor=f7768e" alt="Architecture Progress" />
+**UI/UX Design**
+<img src="https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" alt="UI/UX Progress" />
 
 </div>
 
@@ -149,16 +149,16 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 <p>Projects Completed</p>
 </td>
 <td align="center" width="25%">
-<h3>UI/UX</h3>
-<p>Design Focus</p>
+<h3>ML / LLM</h3>
+<p>Core Focus</p>
 </td>
 <td align="center" width="25%">
 <h3>React</h3>
 <p>Core Framework</p>
 </td>
 <td align="center" width="25%">
-<h3>ML / LLM</h3>
-<p>Growing Focus</p>
+<h3>UI/UX</h3>
+<p>Design Focus</p>
 </td>
 </tr>
 </table>
