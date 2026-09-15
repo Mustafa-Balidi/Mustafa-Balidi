@@ -39,8 +39,8 @@ Retrieval-Augmented Generation (RAG), Model Deployment & MLOps, and scalable sys
 </td>
 <td width="50%" valign="top">
 
-**👨‍💼 Experience**
-Former Project Lead Intern @ GirlScript Foundation — led delivery on an open-source initiative
+**🎓 Education**
+AI Graduate — Al-Sham Private University (ASPU), specialized in Machine Learning, Deep Learning, NLP & Information Retrieval; also holds a Google UI/UX Design Certificate
 
 **🤝 Open To**
 UI/UX audits, open-source contributions, and applied ML / RAG collaborations
@@ -59,21 +59,21 @@ UI/UX audits, open-source contributions, and applied ML / RAG collaborations
 
 **Frontend & Design**
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,figma" /><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><br/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </td>
 <td align="center" valign="top" width="33%">
 
-**Machine Learning & AI**
+**AI / ML & NLP**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Machine%20Learning-4B5563?style=for-the-badge" /><br/> <img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge" /><br/> <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/> <img src="https://img.shields.io/badge/NLTK-4B5563?style=for-the-badge" /><br/> <img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge" /><br/> <img src="https://img.shields.io/badge/RAG%20Systems-7C3AED?style=for-the-badge" />
 
 </td>
 <td align="center" valign="top" width="33%">
 
-**Backend, Tools & Systems**
+**Backend & Systems**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><br/> <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </td>
 </tr>
@@ -104,10 +104,11 @@ UI/UX audits, open-source contributions, and applied ML / RAG collaborations
 <td width="50%" valign="top">
 
 ### 🔬 Biomedical IR System
+<sub>Academic project · NLP & Information Retrieval</sub>
 
-End-to-end retrieval system over a biomedical corpus — NLTK preprocessing, TF-IDF/BM25 baselines, then semantic retrieval with GloVe & BERT embeddings and RM3 query expansion.
+End-to-end retrieval system over a biomedical corpus — preprocessing and vector-space/inverted-index baselines, then semantic retrieval with sentence-transformer embeddings and query expansion.
 
-`Python` `NLTK` `BM25` `BERT` `PyTorch`
+`Python` `NLTK` `scikit-learn` `Sentence-Transformers` `PyTorch`
 
 [View Repo →](https://github.com/Mustafa-Bleidi/CodeToText-IR-System)
 
@@ -115,10 +116,11 @@ End-to-end retrieval system over a biomedical corpus — NLTK preprocessing, TF-
 <td width="50%" valign="top">
 
 ### 🌱 AgriSphere
+<sub>Team project · Computer Vision & Full Stack</sub>
 
 An application for farmers that recommends planting windows and diagnoses plant diseases from photos of affected crops.
 
-`Python` `Computer Vision` `Laravel` `Flutter`
+`Python` `Jupyter` `Computer Vision` `Laravel` `Flutter`
 
 [View Repo →](https://github.com/Mustafa-Bleidi/agri_sphere)
 
@@ -128,10 +130,11 @@ An application for farmers that recommends planting windows and diagnoses plant 
 <td width="50%" valign="top">
 
 ### 🐾 PetHaven
+<sub>Personal project · AI-assisted web app</sub>
 
-A pet adoption and care platform with a built-in assistant — React/Tailwind frontend over a .NET backend, with a Rasa conversational agent and Whisper speech transcription.
+A pet adoption and care platform with a built-in assistant — React/Tailwind frontend over a .NET backend, with a Rasa conversational agent, Whisper speech transcription, and an LLM-powered assistant.
 
-`React` `.NET` `Rasa` `LangChain` `OpenAI`
+`React` `Tailwind CSS` `.NET` `LangChain` `OpenAI` `Rasa` `Whisper` `Redis` `Docker`
 
 <sub>🔒 Private — commercial project</sub>
 
@@ -139,6 +142,7 @@ A pet adoption and care platform with a built-in assistant — React/Tailwind fr
 <td width="50%" valign="top">
 
 ### 🤖 TradingAgents
+<sub>Open source · study</sub>
 
 A multi-agent LLM framework for financial trading that I study and experiment with to understand agent roles, tool calls, and evaluation.
 
