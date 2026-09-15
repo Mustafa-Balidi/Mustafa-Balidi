@@ -18,14 +18,36 @@
 
 ## About
 
-I build retrieval and deep learning systems — text pipelines, ranking models, semantic embeddings, and the evaluation that proves they work — then build the React interfaces that sit on top of them, with a designer's eye.
+<div align="center">
 
-| | |
-|---|---|
-| 💻 **Current Focus** | Frontend Development, UI/UX Design, and Applied ML / LLM Systems |
-| 🧠 **Exploring** | Retrieval-Augmented Generation (RAG), Model Deployment, System Architecture |
-| 👨‍💼 **Experience** | Former Project Lead Intern, GirlScript Foundation |
-| 🤝 **Collaboration** | Open to UI/UX audits, open-source contributions, and applied ML experiments |
+I work across the full stack of applied AI products — from retrieval and NLP pipelines (TF‑IDF/BM25 baselines, semantic embeddings, RAG) and the deep learning models behind them (PyTorch, BERT‑based architectures), to the React/Tailwind frontends and Python backends (Flask, FastAPI) that ship them, deployed with Docker on Linux, and designed with a UI/UX‑first eye from wireframe to interface.
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<td width="50%" valign="top">
+
+**💻 Core Focus**
+Applied ML & Information Retrieval, RAG / LLM Systems, and React-based Frontend Development
+
+**🧠 Currently Exploring**
+Retrieval-Augmented Generation (RAG), Model Deployment & MLOps, and scalable system architecture
+
+</td>
+<td width="50%" valign="top">
+
+**👨‍💼 Experience**
+Former Project Lead Intern @ GirlScript Foundation — led delivery on an open-source initiative
+
+**🤝 Open To**
+UI/UX audits, open-source contributions, and applied ML / RAG collaborations
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -117,53 +139,6 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 </td>
 </tr>
 </table>
-
-<br/>
-
-## Technical Proficiency
-
-<div align="center">
-
-**Machine Learning & Deep Learning**
-<img src="https://geps.dev/progress/90?dangerColor=EE4C2C&warningColor=EE4C2C&successColor=EE4C2C" alt="ML Progress" />
-
-**NLP & Information Retrieval**
-<img src="https://geps.dev/progress/85?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED" alt="NLP/IR Progress" />
-
-**Frontend Development (React / JavaScript)**
-<img src="https://geps.dev/progress/80?dangerColor=7aa2f7&warningColor=7aa2f7&successColor=7aa2f7" alt="Frontend Progress" />
-
-**UI/UX Design**
-<img src="https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" alt="UI/UX Progress" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table width="85%">
-<tr>
-<td align="center" width="25%">
-<h3>10+</h3>
-<p>Projects Completed</p>
-</td>
-<td align="center" width="25%">
-<h3>ML / LLM</h3>
-<p>Core Focus</p>
-</td>
-<td align="center" width="25%">
-<h3>React</h3>
-<p>Core Framework</p>
-</td>
-<td align="center" width="25%">
-<h3>UI/UX</h3>
-<p>Design Focus</p>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
