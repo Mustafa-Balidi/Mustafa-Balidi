@@ -171,10 +171,13 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafa-balidi.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.balidie@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafa-balidi.github.io/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.balidie@gmail.com)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-balidi-80a69b383)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MostafaBleidi/)
+
+<br/><br/>
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MostafaBleidi/)&nbsp;&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33118543/mustafa-bliede)
 
 </div>
@@ -192,5 +195,5 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 ## Activity Overview
 
 <div align="center">
-<img src="./profile/activity-overview.svg" alt="Mustafa's Activity overview" width="760" />
+<img src="./profile/activity-overview.svg" alt="Mustafa's Activity overview" width="780" />
 </div>
