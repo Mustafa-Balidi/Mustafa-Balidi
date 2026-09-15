@@ -85,7 +85,7 @@ UI/UX audits, open-source contributions, and applied ML / RAG collaborations
 
 <div align="center">
 
-<img src="./profile/top-languages.svg" alt="Mustafa's Top Languages" width="460" />
+<img src="./profile/top-languages.svg" alt="Mustafa's Top Languages" width="420" />
 
 </div>
 
