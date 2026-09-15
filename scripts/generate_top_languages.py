@@ -105,8 +105,15 @@ def fetch_user_language_totals(login: str, token: str) -> dict:
         commits = list_all_commits(repo["full_name"], token)
         for c in commits:
             author = c.get("author")
-            if author and author.get("login") == login:
-                my_commits.append((repo["full_name"], c["sha"]))
+            if not (author and author.get("login") == login):
+                continue
+            # Skip merge commits: GitHub's per-commit diff for a merge includes
+            # everything the merge brought in from the other branch, which would
+            # wrongly credit the person who ran `git merge` with code they never
+            # personally wrote (e.g. pulling in a teammate's Dart/mobile changes).
+            if len(c.get("parents") or []) > 1:
+                continue
+            my_commits.append((repo["full_name"], c["sha"]))
 
     with ThreadPoolExecutor(max_workers=8) as ex:
         futures = [
