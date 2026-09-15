@@ -80,7 +80,7 @@ End-to-end retrieval system over a biomedical corpus — NLTK preprocessing, TF-
 
 `Python` `NLTK` `BM25` `BERT` `PyTorch`
 
-[View Repo →](https://github.com/Mustafa-Balidi/CodeToText-IR-System)
+[View Repo →](https://github.com/Mustafa-Bleidi/CodeToText-IR-System)
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +90,7 @@ An application for farmers that recommends planting windows and diagnoses plant 
 
 `Python` `Computer Vision` `Laravel` `Flutter`
 
-[View Repo →](https://github.com/Mustafa-Balidi/agri_sphere)
+[View Repo →](https://github.com/Mustafa-Bleidi/agri_sphere)
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 
 `Python` `LLM Agents` `RAG`
 
-[View Repo →](https://github.com/Mustafa-Balidi/TradingAgents)
+[View Repo →](https://github.com/Mustafa-Bleidi/TradingAgents)
 
 </td>
 </tr>
@@ -167,6 +167,16 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 
 <br/>
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustafa-Bleidi&theme=github_dark" alt="GitHub Activity Breakdown" />
+
+</div>
+
+<br/>
+
 ## Contact
 
 <div align="center">
@@ -174,7 +184,7 @@ A multi-agent LLM framework for financial trading that I study and experiment wi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafa-balidi.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.balidie@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-balidi-80a69b383)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustafa-Balidi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustafa-Bleidi)
 
 </div>
 
